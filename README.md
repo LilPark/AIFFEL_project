@@ -1,1 +1,1 @@
-# AIFFEL_project
+# AIFFEL_project about Exploration
