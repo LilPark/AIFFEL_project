@@ -30,5 +30,5 @@
 |G3. Data Augmentation|G4. CutMix, Mixup([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_04/%5BGD-04%5DAugmentation.ipynb))|
 |G5. Class Activation Map|G6. CAM, Grad-CAM([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_06/%5BGD-06%5DClassActivationMap.ipynb))|
 |G7. Object Detection|G8. 자율주행 보조 시스템([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_08/%5BGD-08%5DGO_STOP_ObjectDetection.ipynb))|
-|G9. Segmentation|G10. 도로 영역 찾기([link]())|
+|G9. Segmentation|G10. 도로 영역 찾기([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_10/%5BGD-10%5DSemanticSegmentation.ipynb))|
 |G11. OCR|G12. End-to-End OCR([link]())|
