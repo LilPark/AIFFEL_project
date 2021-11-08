@@ -32,4 +32,5 @@
 |G7. Object Detection|G8. 자율주행 보조 시스템([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_08/%5BGD-08%5DGO_STOP_ObjectDetection.ipynb))|
 |G9. Segmentation|G10. 도로 영역 찾기([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_10/%5BGD-10%5DSemanticSegmentation.ipynb))|
 |G11. OCR|G12. End-to-End OCR([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_12/%5BGD-12%5DOCR.ipynb))|
-|G13. Camera Sticker App |G14. 카메라 스티커앱 개선하기|
+|G13. Camera Sticker App |G14. 카메라 스티커앱 개선하기([link](https://github.com/LilPark/AIFFEL_project/blob/main/GoingDeeper_14/%5BGD-14%5DSSD.ipynb))|
+|G15. 사람의 몸짓을 읽어보자|G16. 행동 스티커 만들기([link]())|
