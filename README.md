@@ -1,4 +1,6 @@
 # AIFFEL_project about Exploration
+## Exploration 노드 결과물
+
 
 |Contents|Practice|Project|
 |-----|---|---|
