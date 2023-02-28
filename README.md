@@ -1,10 +1,10 @@
 # AIFFEL_project about Exploration
----
+
 ## Contents
 - Description
 - Project List
 
----
+
 ## Description
 인공지능 부트캠프 AIFFEL에서 진행한 Toy Project이다.
 해당 프로젝트는 크게 Exploration / Going Deeper(Computer Vision) 으로 나뉜다.
@@ -12,7 +12,7 @@ Exploration의 경우, machine learning 부터 Computer Vision, Natural Language
 Going Deeper의 경우, Computer Vision 분야의 핵심 세부 task와 관련된 프로젝트이며, 세부 task는 Classification, Object detection, Segmentation, Pose Estimation 등이다.
 각 프로젝트마다 3가지의 루브릭 기준이 존재하며, 해당 루브릭을 맞추기 위한 여러가지 시도들이 포함되어 있다.
 
----
+
 ## Project List
 ### Exploration
 |Contents|Practice|Project|
@@ -37,7 +37,7 @@ Going Deeper의 경우, Computer Vision 분야의 핵심 세부 task와 관련�
 |E18. OCR|OCR 사용해보기|OCR 서비스 기획([link](https://github.com/LilPark/AIFFEL_project/blob/main/Exploration_18/%5BE-18%5DOCR.ipynb))|
 |E19. Conditioanl GAN|cGAN, Pix2Pix|Segmentation map 이미지 생성([link](https://github.com/LilPark/AIFFEL_project/blob/main/Exploration_19/%5BE-19%5DCGAN.ipynb))|
 
----
+
 ### Going Deeper - CV
 |Lecture|Project|
 |---|---|
