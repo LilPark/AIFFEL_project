@@ -7,9 +7,21 @@
 
 ## Description
 인공지능 부트캠프 AIFFEL에서 진행한 Toy Project이다.
+  
+  
+  
 해당 프로젝트는 크게 Exploration / Going Deeper(Computer Vision) 으로 나뉜다.
+  
+  
+  
 Exploration의 경우, machine learning 부터 Computer Vision, Natural Language Processing 분야의 기본적인 이론 및 모델과 관련된 프로젝트이다.
+  
+  
+  
 Going Deeper의 경우, Computer Vision 분야의 핵심 세부 task와 관련된 프로젝트이며, 세부 task는 Classification, Object detection, Segmentation, Pose Estimation 등이다.
+  
+  
+  
 각 프로젝트마다 3가지의 루브릭 기준이 존재하며, 해당 루브릭을 맞추기 위한 여러가지 시도들이 포함되어 있다.
 
 
